@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/utkarsh/Visual_studio /c++/open_gl_prac/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/flappy_bird.dir/src/main.cpp.o -c \"/home/utkarsh/Visual_studio /c++/open_gl_prac/src/main.cpp\"",
+  "file": "/home/utkarsh/Visual_studio /c++/open_gl_prac/src/main.cpp"
+}
+]
