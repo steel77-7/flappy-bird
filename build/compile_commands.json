@@ -1,7 +1,8 @@
 [
 {
-  "directory": "/home/utkarsh/Visual_studio /c++/open_gl_prac/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/flappy_bird.dir/src/main.cpp.o -c \"/home/utkarsh/Visual_studio /c++/open_gl_prac/src/main.cpp\"",
-  "file": "/home/utkarsh/Visual_studio /c++/open_gl_prac/src/main.cpp"
+  "directory": "/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/flappy_bird.dir/src/main.cpp.o -c /home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/src/main.cpp",
+  "file": "/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/src/main.cpp",
+  "output": "CMakeFiles/flappy_bird.dir/src/main.cpp.o"
 }
 ]

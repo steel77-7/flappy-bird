@@ -1,4 +1,4 @@
-# Install script for directory: /home/utkarsh/Visual_studio /c++/open_gl_prac
+# Install script for directory: /home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/utkarsh/Visual_studio /c++/open_gl_prac/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

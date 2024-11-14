@@ -2,6 +2,7 @@
     "files.associations": {
         "ostream": "cpp",
         "cerrno": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "glad.h": "c"
     }
 }

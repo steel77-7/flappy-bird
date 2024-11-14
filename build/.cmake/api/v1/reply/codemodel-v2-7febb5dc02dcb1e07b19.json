@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "flappy_bird::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-flappy_bird-Debug-24055dd1eee882ed3b3a.json",
+					"jsonFile" : "target-flappy_bird-Debug-9c1f686a80fd67fd95b7.json",
 					"name" : "flappy_bird",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/utkarsh/Visual_studio /c++/open_gl_prac/build",
-		"source" : "/home/utkarsh/Visual_studio /c++/open_gl_prac"
+		"build" : "/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/build",
+		"source" : "/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 6
 	}
 }
