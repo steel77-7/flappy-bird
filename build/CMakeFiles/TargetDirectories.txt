@@ -1,3 +1,0 @@
-/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/build/CMakeFiles/flappy_bird.dir
-/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/build/CMakeFiles/edit_cache.dir
-/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/build/CMakeFiles/rebuild_cache.dir
