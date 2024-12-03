@@ -272,11 +272,10 @@ int main()
 	glUniform4f(glGetUniformLocation(shaderProgram.ID, "lightColor"), lightColor.x, lightColor.y, lightColor.z, lightColor.w);
 	glUniform3f(glGetUniformLocation(shaderProgram.ID, "lightPos"), lightPos.x, lightPos.y, lightPos.z);
 
-	Texture beluga_cat("/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/src/texture_wood.jpg", GL_TEXTURE_2D, GL_TEXTURE0, GL_RGB, GL_UNSIGNED_BYTE);
+	Texture beluga_cat("/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/src/texture_Bo_burnham.jpg", GL_TEXTURE_2D, GL_TEXTURE0, GL_RGB, GL_UNSIGNED_BYTE);
 	beluga_cat.texUnit(shaderProgram, "tex0", 0);
-Texture beluga_cat_spec("/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/src/texture_wood.jpg", GL_TEXTURE_2D, GL_TEXTURE0, GL_RED, GL_UNSIGNED_BYTE);
+	Texture beluga_cat_spec("/home/steel/visual_studio/c++_projects/opengl_projects/flappy-bird/src/texture_Bo_Burnham.jpg", GL_TEXTURE_2D, GL_TEXTURE0, GL_RED, GL_UNSIGNED_BYTE);
 	beluga_cat_spec.texUnit(shaderProgram, "tex1", 0);
-
 
 	Camera camera(width, height, glm::vec3(0.0f, 0.0f, 2.0f));
 	glUniform3f(glGetUniformLocation(shaderProgram.ID, "camPos"), camera.Position.x, camera.Position.y, camera.Position.z);
